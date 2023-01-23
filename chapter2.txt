@@ -1,0 +1,6 @@
+i have learn how to use git in desktop to add files in github 
+first commond is git init
+git status 
+git add
+git commit -m "bref discription by you in presnt tanse.
+git log (for information) 
